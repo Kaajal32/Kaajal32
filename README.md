@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Kaajal32/Kaajal32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Kajal Puri actively looking to get into cyber security. Here are some of my cyber security projects to demonstrate my skills.
 
 Here are some ideas to get you started:
 
