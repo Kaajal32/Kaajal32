@@ -1,14 +1,16 @@
 ### Hi there 👋
 
-I am Kajal Puri actively looking to get into cyber security. Here are some of my cyber security projects to demonstrate my skills.
+<h2>I am Kajal Puri actively looking to get into cyber security.</h2>
+Here are some of my cyber security projects to demonstrate my skills.
 
-Here are some ideas to get you started:
+ <h2>👨‍💻 Cyber Security Projects:</h2>
+ 
+- <b>Python Keylogger</b>
+    - [Creating Keylogger using Python](https://github.com/Kaajal32/Python-Keylogger)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- <b>Cryptography Machine</b>
+    - [Cryptography Machine using Python](https://github.com/Kaajal32/Cryptography-Machine)
+
+- <b>E-commerce Website</b>
+    - [E-commerce website using HTML, CSS, JavaScript](https://github.com/Kaajal32/E-commerce-Restaurant)
+
