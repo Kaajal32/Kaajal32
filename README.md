@@ -4,7 +4,10 @@
 Here are some of my cyber security projects to demonstrate my skills.
 
  <h2>👨‍💻 Cyber Security Projects:</h2>
- 
+
+ - <b>PicoCTF</b>
+    - [Documenting PicoCTF Practice](https://github.com/Kaajal32/PicoCTF)
+      
 - <b>Python Keylogger</b>
     - [Creating Keylogger using Python](https://github.com/Kaajal32/Python-Keylogger)
 
