@@ -14,8 +14,8 @@ Here are some of my cyber security projects to demonstrate my skills.
 - <b>Cryptography Machine</b>
     - [Cryptography Machine using Python](https://github.com/Kaajal32/Cryptography-Machine)
       
- - <b>Active Directory Project</b>
-    - [Active Directory Project in Microsoft Azure](https://github.com/Kaajal32/Azure-Active-Directory)
+ - <b>Azure Cloud Detection Lab Project</b>
+    - [Cloud Detection Project using Microsoft Azure](https://github.com/Kaajal32/Azure-Active-Directory)
 
 - <b>E-commerce Website</b>
     - [E-commerce website using HTML, CSS, JavaScript](https://github.com/Kaajal32/E-commerce-Restaurant)
