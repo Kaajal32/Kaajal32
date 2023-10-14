@@ -5,17 +5,23 @@ Here are some of my cyber security projects to demonstrate my skills.
 
  <h2>👨‍💻 Cyber Security Projects:</h2>
 
- - <b>PicoCTF</b>
-    - [Documenting PicoCTF Practice](https://github.com/Kaajal32/PicoCTF)
+ - <b>Azure Cloud Detection Lab Project</b>
+    - [Cloud Detection Project using Microsoft Azure](https://github.com/Kaajal32/Azure-Active-Directory)
+  
+ - <b>Home Lab Project Using Azure</b>
+    - [Building HomeLab using Azure]()
       
-- <b>Python Keylogger</b>
+ - <b>Python Keylogger</b>
     - [Creating Keylogger using Python](https://github.com/Kaajal32/Python-Keylogger)
+      
+- <b>SSH Honeypot using python</b>
+    - [Building SSH Honeypot using Python]()
 
 - <b>Cryptography Machine</b>
     - [Cryptography Machine using Python](https://github.com/Kaajal32/Cryptography-Machine)
       
- - <b>Azure Cloud Detection Lab Project</b>
-    - [Cloud Detection Project using Microsoft Azure](https://github.com/Kaajal32/Azure-Active-Directory)
+- <b>PicoCTF</b>
+    - [Documenting PicoCTF Practice](https://github.com/Kaajal32/PicoCTF)
 
 - <b>E-commerce Website</b>
     - [E-commerce website using HTML, CSS, JavaScript](https://github.com/Kaajal32/E-commerce-Restaurant)
