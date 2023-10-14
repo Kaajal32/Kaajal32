@@ -9,7 +9,7 @@ Here are some of my cyber security projects to demonstrate my skills.
     - [Cloud Detection Project using Microsoft Azure](https://github.com/Kaajal32/Azure-Active-Directory)
   
  - <b>Home Lab Project Using Azure</b>
-    - [Building HomeLab using Azure]()
+    - [Building HomeLab using Azure](https://github.com/Kaajal32/Home-Lab-Project)
       
  - <b>Python Keylogger</b>
     - [Creating Keylogger using Python](https://github.com/Kaajal32/Python-Keylogger)
