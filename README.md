@@ -14,8 +14,8 @@ Here are some of my cyber security projects to demonstrate my skills.
  - <b>Python Keylogger</b>
     - [Creating Keylogger using Python](https://github.com/Kaajal32/Python-Keylogger)
       
-- <b>SSH Honeypot using python</b>
-    - [Building SSH Honeypot using Python](https://github.com/Kaajal32/SSH-Honeypot)
+- <b>TCP Client and Server using python</b>
+    - [Building TCP Client and Server using Python](https://github.com/Kaajal32/SSH-Honeypot)
 
 - <b>Cryptography Machine</b>
     - [Cryptography Machine using Python](https://github.com/Kaajal32/Cryptography-Machine)
